@@ -1,2 +1,2 @@
 # DNS-server-program.
-dns server webclient program to give the physical address when ip address is given as input.
+dns server webclient program to give the ip address when the website name is given by the user.
